@@ -1,2 +1,2 @@
-# Mes courses
-La liste de courses est conservee automatiquement et remplacee uniquement lors de la generation d une nouvelle liste.
+# Mes courses - Version 7
+Mise a jour automatique corrigee. La liste de courses reste presente jusqu a la generation d une nouvelle liste.
