@@ -1,2 +1,2 @@
-# Mes courses version 10
-Choix distinct entre phototheque et appareil photo.
+# Mes courses version 11
+Cliquer sur une miniature ouvre la photo en grand.
